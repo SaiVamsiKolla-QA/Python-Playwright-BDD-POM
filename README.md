@@ -1,2 +1,2 @@
-# Python-Playwright-BDD-POM-Public
+# Python-Playwright-BDD-POM
 Demo Playwright Project
